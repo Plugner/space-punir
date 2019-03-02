@@ -1,0 +1,9 @@
+name: SpacePunir
+version: 1.0-SNAPSHOT
+main: com.servidoresspace.spacepunir.SpacePunir
+commands:
+ usodehack:
+ punir:
+ setgroup:
+ abusodebugs:
+ OfensaaJogadoreStaff:

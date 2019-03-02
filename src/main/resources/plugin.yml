@@ -1,0 +1,9 @@
+name: SpacePunir
+version: ${project.version}
+main: com.servidoresspace.spacepunir.SpacePunir
+commands:
+ usodehack:
+ punir:
+ setgroup:
+ abusodebugs:
+ OfensaaJogadoreStaff:
